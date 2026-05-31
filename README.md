@@ -46,6 +46,9 @@ cd frontend
 npm install
 npm run dev
 ```
+3. Run with two commands
+   cd frontend
+   npm run desktop
 
 Then open http://localhost:5173
 
