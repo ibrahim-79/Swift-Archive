@@ -1,6 +1,6 @@
 # OCR Archive System
 
-A full-featured document archive system with PaddleOCR integration, full-text search indexing, and a modern web UI.
+A full-featured document archive system with RapidOCR integration, full-text search indexing, and a modern web UI.
 
 ## Features
 
